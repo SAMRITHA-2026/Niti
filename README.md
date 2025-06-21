@@ -118,7 +118,8 @@ Sample Prompt:
 
 The application follows a modular, full-stack architecture:
 
-![ChatGPT Image Jun 21, 2025, 09_59_37 AM](https://github.com/user-attachments/assets/e9fe71e3-2a48-484c-82d9-dd6c444a7892)
+![ChatGPT Image Jun 21, 2025, 10_02_16 AM](https://github.com/user-attachments/assets/25a83c14-99ce-4090-b8e1-06041cfdc3a3)
+
 
 ## 📁 Folder Structure
 
