@@ -4,6 +4,8 @@
 **HealthAI** is an intelligent healthcare platform that uses modern AI and full-stack technologies to offer proactive health management, early diagnosis, secure consultations, and smart emergency handling.
 
 ![image](https://github.com/user-attachments/assets/c9de5ba8-6a75-4943-add5-f253923b22b2)
+![image](https://github.com/user-attachments/assets/29f37dd4-74b4-4687-a76e-48e9cfebd7e7)
+![image](https://github.com/user-attachments/assets/705e6185-fc9a-4d33-9f5d-18fe0e10a6fc)
 
 
 ---
