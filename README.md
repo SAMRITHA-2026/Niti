@@ -153,7 +153,9 @@ npm run dev
 ## 📹 Demo & Submission
 
 - [🔗 GitHub Repo]([https://github.com/yourname/health-ai](https://github.com/SAMRITHA-2026/Niti-Al-Graduate-Developer---HealthAI))
-- [📽️ Demo Video](https://loom.com/demo-link)
+- [📽️ Demo Video]
+
+
 
 ---
 
