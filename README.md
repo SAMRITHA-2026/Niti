@@ -146,14 +146,13 @@ npm install
 npm run dev
 ```
 
+![image](https://github.com/user-attachments/assets/c850cf8f-fa81-4c9b-bbbb-9c915be5714b)
+
 > Rename `.env.local.example` to `.env.local` and configure OpenAI API key.
 
 ---
 
-## 📹 Demo & Submission
 
-- [🔗 GitHub Repo]([https://github.com/yourname/health-ai](https://github.com/SAMRITHA-2026/Niti-Al-Graduate-Developer---HealthAI))
-- 
 ## 📽️ Demo Video
 
 🎥 [Click here to watch the demo video](https://github.com/SAMRITHA-2026/Niti-Al-Graduate-Developer---HealthAI/raw/main/demo-video.mp4)
