@@ -1,0 +1,15 @@
+npm install --legacy-peer-deps
+
+npm install next react react-dom typescript @types/react @types/node --legacy-peer-deps
+
+npm install -D tailwindcss postcss autoprefixer --legacy-peer-deps
+
+npm install ai --legacy-peer-deps
+
+npm install @radix-ui/react-icons class-variance-authority tailwind-variants lucide-react --legacy-peer-deps
+
+npm install -D eslint prettier eslint-config-next --legacy-peer-deps
+
+npm install date-fns@3.6.0 framer-motion --legacy-peer-deps
+
+npm run dev
