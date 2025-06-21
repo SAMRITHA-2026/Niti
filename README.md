@@ -114,6 +114,11 @@ Sample Prompt:
   - Dockerfile/CI for deployment
 
 ---
+## 🏗 Architecture Diagram
+
+The application follows a modular, full-stack architecture:
+
+![ChatGPT Image Jun 21, 2025, 09_59_37 AM](https://github.com/user-attachments/assets/e9fe71e3-2a48-484c-82d9-dd6c444a7892)
 
 ## 📁 Folder Structure
 
