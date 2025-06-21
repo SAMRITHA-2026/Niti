@@ -3,6 +3,9 @@
 
 **HealthAI** is an intelligent healthcare platform that uses modern AI and full-stack technologies to offer proactive health management, early diagnosis, secure consultations, and smart emergency handling.
 
+![image](https://github.com/user-attachments/assets/c9de5ba8-6a75-4943-add5-f253923b22b2)
+
+
 ---
 
 ## 🔍 Project Overview
@@ -21,11 +24,16 @@ HealthAI is a modular and scalable AI-powered health assistant built with **Next
 - Medication & appointment reminders
 - AI-generated personalized insights
 
+![image](https://github.com/user-attachments/assets/ec7b673d-5a1b-4944-bb45-17141b1dabd3)
+
+
 ### 🧠 2. **AI-Assisted Diagnosis**
 - Users input symptoms (e.g. “fatigue, fever”)
 - OpenAI-powered engine analyzes input and suggests probable diagnosis
 - Confidence scores with clinical recommendations
 - Easy reset & follow-up prompt system
+
+![image](https://github.com/user-attachments/assets/b5e7fea5-340e-4dc8-8bbb-5500d83d57df)
 
 ### 💬 3. **Doctor Consultations**
 - Doctor search and filter
@@ -33,17 +41,30 @@ HealthAI is a modular and scalable AI-powered health assistant built with **Next
 - Video call setup (ready for integration)
 - Booking appointments with calendar UI
 
+![image](https://github.com/user-attachments/assets/4df9c31a-3755-47b0-a468-a6186e8ff560)
+
+Sample Prompt:
+
+![image](https://github.com/user-attachments/assets/8a7e473a-123d-4403-8fad-75a9cb513dfe)
+
+
+![image](https://github.com/user-attachments/assets/5803f06f-4953-4c73-975f-b1e0aa1e15bd)
+
 ### 🗂️ 4. **Health Record Management**
 - Upload medical documents (PDFs, images under 5MB)
 - Secure preview and delete
 - View metadata like file type, size, etc.
 - Extensible for cloud-based storage APIs
 
+![image](https://github.com/user-attachments/assets/6ad7bef0-ee32-441d-8f22-a87f64cdf827)
+
 ### 🚨 5. **Emergency Alert System**
 - One-click alert triggers via button
 - Fetches user geolocation (HTML5 API)
 - Contacts stored and alerts simulated via UI
 - Animated confirmation and feedback (Framer Motion)
+
+![image](https://github.com/user-attachments/assets/ea6623e6-a3ae-4ebd-86ba-fb0472bd831f)
 
 ---
 
@@ -53,20 +74,15 @@ HealthAI is a modular and scalable AI-powered health assistant built with **Next
 - 💡 Optional Enhancements:
   - Use `Hugging Face summarization model` for record summarization
   - Predict risk level using `TensorFlow.js` models (ready for plug-in)
+![image](https://github.com/user-attachments/assets/8ad905d0-511a-4e6b-8645-16e2bde92f1e)
 
----
 
-## 🖼️ Screenshots
+## 💊 Medication Reminder
+- A smart reminder system that allows users to schedule and track medication timings.
+- Includes real-time alerts, status tracking (taken/missed), and reset options for ongoing routines.
 
-> Include these in your repo via markdown:
+![image](https://github.com/user-attachments/assets/e5c884cc-5a83-4d2f-8cdf-7f1dede5e9b3)
 
-```md
-![Dashboard](./public/screens/dashboard.png)
-![Diagnosis](./public/screens/diagnosis.png)
-![Consultation](./public/screens/consultation.png)
-![Records](./public/screens/records.png)
-![Emergency](./public/screens/emergency.png)
-```
 
 ---
 
@@ -128,10 +144,8 @@ npm run dev
 
 ## 📹 Demo & Submission
 
-- [🔗 GitHub Repo](https://github.com/yourname/health-ai)
+- [🔗 GitHub Repo]([https://github.com/yourname/health-ai](https://github.com/SAMRITHA-2026/Niti-Al-Graduate-Developer---HealthAI))
 - [📽️ Demo Video](https://loom.com/demo-link)
-- [📄 Intro Video](https://loom.com/intro-link)
-- [🔴 Live Demo](https://healthai.vercel.app) (if deployed)
 
 ---
 
